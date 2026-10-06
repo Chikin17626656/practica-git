@@ -1,1 +1,2 @@
 Hola, soy Tomas Bartolomei. Fecha: 05/10/2026
+¡Bienvenidos a mi práctica de Git y GitHub!
